@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/BoggleDictionary.txt","/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/bin/DesktopGL/BoggleDictionary.txt","CopyItem","File",22224,22224,0.000361
+"/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/logo3.png","/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/bin/DesktopGL/logo3.xnb","TextureProcessor","Texture2DContent",85364,5602445,0.615719
+"/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/Square.png","/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/bin/DesktopGL/Square.xnb","TextureProcessor","Texture2DContent",273,16469,0.003182
+"/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/VCR.spritefont","/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/bin/DesktopGL/VCR.xnb","FontDescriptionProcessor","SpriteFontContent",2006,136209,0.256232
+"/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/VCRMINI.spritefont","/home/silviu/Documents/Visual Studio Code/BoggleBoard/Content/bin/DesktopGL/VCRMINI.xnb","FontDescriptionProcessor","SpriteFontContent",2006,70673,0.413778

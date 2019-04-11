@@ -1,0 +1,28 @@
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.deps.json
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.json
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.dev.json
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.csprojAssemblyReference.cache
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.csproj.CoreCompileInputs.cache
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfoInputs.cache
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfo.cs
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/Content/logo3.xnb
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/Content/logo3.xnb
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/MonoGame Video.deps.json
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.json
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.dev.json
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/obj/Debug/netcoreapp2.1/MonoGame Video.csprojAssemblyReference.cache
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/obj/Debug/netcoreapp2.1/MonoGame Video.csproj.CoreCompileInputs.cache
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfoInputs.cache
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfo.cs
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/obj/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/obj/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/Content/VCR.xnb
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/Content/Square.xnb
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/Content/BoggleDictionary.txt
+/home/silviu/Documents/Visual Studio Code/BoggleBoard/bin/Debug/netcoreapp2.1/Content/VCRMINI.xnb

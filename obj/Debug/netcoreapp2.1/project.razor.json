@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/silviu/Documents/Visual Studio Code/BoggleBoard/MonoGame Video.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
